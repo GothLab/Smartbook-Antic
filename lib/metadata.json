@@ -1,0 +1,287 @@
+{
+  "vaultName": "Smartbook-Antic",
+  "lastExport": 1718830948251,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Cicero/0.html",
+    "Cicero/0.md",
+    "Cicero/2.html",
+    "Cicero/2.md",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/html/file-tree.html",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/favicon.png",
+    "lib/scripts/minisearch.js",
+    "lib/scripts/webpage.js",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/obsidian.css",
+    "lib/metadata.json",
+    "lib/rss.xml",
+    "lib/search-index.json",
+    "Plato/0.html",
+    "Plato/0.md",
+    "Plato/1.html",
+    "Plato/1.md",
+    "Plato/2.html",
+    "Plato/2.md",
+    "index.html",
+    "index.md"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Cicero/0.md": {
+      "modifiedTime": 1718830907503,
+      "sourceSize": 568424,
+      "exportedPath": "cicero/0.html",
+      "dependencies": []
+    },
+    "Cicero/2.md": {
+      "modifiedTime": 1718830907503,
+      "sourceSize": 785087,
+      "exportedPath": "cicero/2.html",
+      "dependencies": []
+    },
+    "Plato/0.md": {
+      "modifiedTime": 1718830907503,
+      "sourceSize": 1334839,
+      "exportedPath": "plato/0.html",
+      "dependencies": []
+    },
+    "Plato/1.md": {
+      "modifiedTime": 1718830907503,
+      "sourceSize": 1254796,
+      "exportedPath": "plato/1.html",
+      "dependencies": []
+    },
+    "Plato/2.md": {
+      "modifiedTime": 1718830907503,
+      "sourceSize": 1313077,
+      "exportedPath": "plato/2.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1718830907503,
+      "sourceSize": 0,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 18396,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 129920,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Cicero/0.html": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 637141,
+      "exportedPath": "cicero/0.html",
+      "dependencies": []
+    },
+    "Cicero/2.html": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 801628,
+      "exportedPath": "cicero/2.html",
+      "dependencies": []
+    },
+    "lib/metadata.json": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 7142,
+      "exportedPath": "lib/metadata.json",
+      "dependencies": []
+    },
+    "lib/rss.xml": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 5565117,
+      "exportedPath": "lib/rss.xml",
+      "dependencies": []
+    },
+    "lib/search-index.json": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 2077558,
+      "exportedPath": "lib/search-index.json",
+      "dependencies": []
+    },
+    "Plato/0.html": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 1535935,
+      "exportedPath": "plato/0.html",
+      "dependencies": []
+    },
+    "Plato/1.html": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 1569096,
+      "exportedPath": "plato/1.html",
+      "dependencies": []
+    },
+    "Plato/2.html": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 1461740,
+      "exportedPath": "plato/2.html",
+      "dependencies": []
+    },
+    "index.html": {
+      "modifiedTime": 1718830948251,
+      "sourceSize": 12161,
+      "exportedPath": "index.html",
+      "dependencies": []
+    }
+  }
+}
